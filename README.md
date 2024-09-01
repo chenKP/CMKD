@@ -1,4 +1,4 @@
-## MLCKD
+## CMKD
 Official pytorch implementation of []()
 
 ## Requirements
